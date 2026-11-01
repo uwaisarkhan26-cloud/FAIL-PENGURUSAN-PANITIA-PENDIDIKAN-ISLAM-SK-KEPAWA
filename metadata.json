@@ -1,0 +1,8 @@
+{
+  "name": "Remix Sistem Fail Pengurusan Pendidikan Islam SK Kepawa",
+  "description": "Sistem Pengurusan Fail Panitia Pendidikan Islam SK Kepawa berpandukan Instrumen Selia Bantu JPN Sabah / KPM, lengkap dengan panel fail, CRUD dokumen, dan laporan pemantauan Guru Besar \u0026 Penolong Kanan Pentadbiran.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
